@@ -1,0 +1,7 @@
+*.swp
+*.o
+*.hex
+*.lst
+*.out
+*.map
+*.tar.gz
