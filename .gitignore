@@ -5,3 +5,4 @@
 *.out
 *.map
 *.tar.gz
+*.*~
